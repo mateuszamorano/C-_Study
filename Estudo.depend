@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1739486072 source:c:\users\mateu\onedrive\desktop\mateus\estudo de códigos\c++\estudo\main.cpp
+	<iostream>
+	<locale.h>
+
